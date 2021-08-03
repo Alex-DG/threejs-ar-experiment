@@ -1,8 +1,8 @@
 # Three.js - AR Experiment with WebXR
 
-[WebXR enrionment setup](https://developers.google.com/ar/develop/webxr/environment)
-[Hello WebXR](https://developers.google.com/ar/develop/webxr/hello-webxr)
-[Remote Debug Android Device](https://developer.chrome.com/docs/devtools/remote-debugging/)
+- [WebXR enrionment setup](https://developers.google.com/ar/develop/webxr/environment)
+- [Hello WebXR](https://developers.google.com/ar/develop/webxr/hello-webxr)
+- [Remote Debug Android Device](https://developer.chrome.com/docs/devtools/remote-debugging/)
 
 ## Setup
 
